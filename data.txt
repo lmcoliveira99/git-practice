@@ -1,3 +1,3 @@
 Name: Leonardo
 Age: 24
-Favorite Color: Blue
+Favorite Color: Yellow
